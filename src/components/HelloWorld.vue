@@ -35,7 +35,7 @@
 <p>We may employ third-party companies and individuals due to the following reasons:</p>
 
     <p>To facilitate our Service;</p>
-    <i>To provide the Service on our behalf;</p>
+    <p>To provide the Service on our behalf;</p>
     <p>To perform Service-related services; or</p>
     <p>To assist us in analyzing how our Service is used.</p>
 
