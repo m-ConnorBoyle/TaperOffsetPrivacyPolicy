@@ -12,11 +12,7 @@
     which is accessible at Taper Offset Spacing Calculator, unless otherwise defined in this Privacy Policy.</p>
 
 <p><strong>Information Collection and Use</strong></p>
-<p>For a better experience while using our Service, we may require you to provide us with certain
-    personally identifiable information, including but not limited to user's name. 
-	The information that we request is retained on your device and is not
-    collected by us in any way.</p>
-<p>The app does use third party services that may collect information used to identify you.</p>
+<p>This application is not designed to collect any personal data, it is simply a calculator.</p>
 
 <p><strong>Log Data</strong></p>
 <p>We want to inform you that whenever you use our Service, in case of an error in the app we collect
@@ -37,12 +33,12 @@
 
 <p><strong>Service Providers</strong></p> <!-- This part need seem like it's not needed, but if you use any Google services, or any other third party libraries, chances are, you need this. -->
 <p>We may employ third-party companies and individuals due to the following reasons:</p>
-<ul>
-    <li>To facilitate our Service;</li>
-    <li>To provide the Service on our behalf;</li>
-    <li>To perform Service-related services; or</li>
-    <li>To assist us in analyzing how our Service is used.</li>
-</ul>
+
+    <p>To facilitate our Service;</p>
+    <i>To provide the Service on our behalf;</p>
+    <p>To perform Service-related services; or</p>
+    <p>To assist us in analyzing how our Service is used.</p>
+
 <p>We want to inform users of this Service that these third parties have access to your Personal
     Information. The reason is to perform the tasks assigned to them on our behalf. However, they
     are obligated not to disclose or use the information for any other purpose.</p>
@@ -55,10 +51,8 @@
 
 <p><strong>Links to Other Sites</strong></p>
 <p>This Service may contain links to other sites. If you click on a third-party link, you will be
-    directed to that site. Note that these external sites are not operated by us. Therefore, I
-    strongly advise you to review the Privacy Policy of these websites. I have no control over, and
-    assume no responsibility for the content, privacy policies, or practices of any third-party
-    sites or services.</p>
+    directed to that site. These sites are operated by us. Therefore, we strongly advise you to
+    review the Privacy Policy of these websites.</p>
 
 <p><strong>Children’s Privacy</strong></p>
 <p>This Services do not address anyone under the age of 13. We do not knowingly collect personal
