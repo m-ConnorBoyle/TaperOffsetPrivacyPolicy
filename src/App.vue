@@ -1,13 +1,10 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
+<script setup lang="ts">
+import PrivayPolicy from './components/PrivacyPolicy.vue'
 </script>
 
 <template>
-  <div>
-  </div>
-  <HelloWorld msg="" />
+  <h1>
+Taper Offset Spacing Calculator Privacy Policy
+  </h1>
+  <PrivayPolicy />
 </template>
-
-<style scoped>
-
-</style>
